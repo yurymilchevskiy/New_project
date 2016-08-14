@@ -1,3 +1,4 @@
+
 #include "aa_sequence_to_index_array.h"
 
 vector < int > aa_sequence_to_index_array (const string & sequence )
